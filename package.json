@@ -1,0 +1,19 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "description": "GIT-TESTE\r ddd",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1mariacunha/git-teste.git"
+  },
+  "author": "1mariacunha\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1mariacunha/git-teste/issues"
+  },
+  "homepage": "https://github.com/1mariacunha/git-teste#readme"
+}
